@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.macknified.com/</loc>
+    <lastmod>2026-07-31T22:39:03.026Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://blog.macknified.com/zero-dollar-ai-marketing-strategy/</loc>
     <lastmod>2026-07-31T22:17:17.864Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -133,11 +138,6 @@
   <url>
     <loc>https://blog.macknified.com/6-figure-ai-consulting-business/</loc>
     <lastmod>2026-07-31T22:14:59.466Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://blog.macknified.com/</loc>
-    <lastmod>2026-07-31T22:14:54.346Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
