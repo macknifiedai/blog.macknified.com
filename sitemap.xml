@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.macknified.com/what-is-agentic-ai/</loc>
+    <lastmod>2026-07-31T22:17:07.863Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://blog.macknified.com/stop-using-chatgpt-like-search-engine/</loc>
     <lastmod>2026-07-31T22:17:01.976Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -123,11 +128,6 @@
   <url>
     <loc>https://blog.macknified.com/</loc>
     <lastmod>2026-07-31T22:14:54.346Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://blog.macknified.com/what-is-agentic-ai/</loc>
-    <lastmod>2026-07-31T19:53:15.746Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
