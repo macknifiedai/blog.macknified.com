@@ -2,7 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blog.macknified.com/</loc>
-    <lastmod>2026-07-31T22:39:03.026Z</lastmod>
+    <lastmod>2026-07-31T22:40:31.859Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://blog.macknified.com/ai-receptionist-chat-widget-business/</loc>
+    <lastmod>2026-07-31T22:40:23.839Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -73,11 +78,6 @@
   <url>
     <loc>https://blog.macknified.com/ai-respond-faster-close-more-deals/</loc>
     <lastmod>2026-07-31T22:16:08.157Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://blog.macknified.com/ai-receptionist-chat-widget-business/</loc>
-    <lastmod>2026-07-31T22:16:02.812Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
