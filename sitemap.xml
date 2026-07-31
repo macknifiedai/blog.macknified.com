@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.macknified.com/claude-vs-gpt4o-vs-gemini/</loc>
+    <lastmod>2026-07-31T23:06:59.968Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://blog.macknified.com/ai-without-losing-human-touch-customer-service/</loc>
     <lastmod>2026-07-31T23:06:55.486Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -133,11 +138,6 @@
   <url>
     <loc>https://blog.macknified.com/replaced-employees-with-ai/</loc>
     <lastmod>2026-07-31T22:48:51.646Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://blog.macknified.com/claude-vs-gpt4o-vs-gemini/</loc>
-    <lastmod>2026-07-31T22:48:13.457Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
