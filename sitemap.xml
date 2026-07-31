@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.macknified.com/how-to-write-ai-system-prompt/</loc>
+    <lastmod>2026-07-31T19:50:10.268Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://blog.macknified.com/ai-agent-vs-chatbot/</loc>
     <lastmod>2026-07-31T19:49:54.984Z</lastmod>
     <changefreq>weekly</changefreq>
