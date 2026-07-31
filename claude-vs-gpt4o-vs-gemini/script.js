@@ -1,0 +1,1 @@
+window.location.replace("https://app.macknified.com/p/6MywGhyrE")
