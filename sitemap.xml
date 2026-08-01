@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.macknified.com/7-ai-tools-solo-founders/</loc>
+    <lastmod>2026-08-01T01:46:01.435Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://blog.macknified.com/stop-using-chatgpt-like-search-engine/</loc>
     <lastmod>2026-08-01T01:45:20.294Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -128,11 +133,6 @@
   <url>
     <loc>https://blog.macknified.com/ai-appointment-booking-stop-losing-leads/</loc>
     <lastmod>2026-07-31T23:05:52.571Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://blog.macknified.com/7-ai-tools-solo-founders/</loc>
-    <lastmod>2026-07-31T23:05:43.605Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
