@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.macknified.com/how-to-write-ai-system-prompt/</loc>
+    <lastmod>2026-08-01T00:58:12.490Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://blog.macknified.com/ai-for-service-businesses/</loc>
     <lastmod>2026-08-01T00:58:00.877Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,11 +43,6 @@
   <url>
     <loc>https://blog.macknified.com/no-code-ai-agency/</loc>
     <lastmod>2026-08-01T00:22:23.119Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://blog.macknified.com/how-to-write-ai-system-prompt/</loc>
-    <lastmod>2026-08-01T00:22:17.109Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
