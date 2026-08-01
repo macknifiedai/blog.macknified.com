@@ -1,13 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.macknified.com/</loc>
-    <lastmod>2026-08-01T00:12:53.181Z</lastmod>
+    <loc>https://blog.macknified.com/ai-agent-vs-chatbot/</loc>
+    <lastmod>2026-08-01T00:21:42.660Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://blog.macknified.com/6-figure-ai-consulting-business/</loc>
+    <lastmod>2026-08-01T00:21:23.650Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://blog.macknified.com/zero-dollar-ai-marketing-strategy/</loc>
-    <lastmod>2026-07-31T23:07:42.809Z</lastmod>
+    <lastmod>2026-08-01T00:21:06.248Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://blog.macknified.com/no-code-ai-agency/</loc>
+    <lastmod>2026-08-01T00:20:23.257Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://blog.macknified.com/how-to-write-ai-system-prompt/</loc>
+    <lastmod>2026-08-01T00:20:06.686Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://blog.macknified.com/ai-for-service-businesses/</loc>
+    <lastmod>2026-08-01T00:19:48.755Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://blog.macknified.com/ai-for-restaurants/</loc>
+    <lastmod>2026-08-01T00:19:29.676Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://blog.macknified.com/ai-content-flywheel/</loc>
+    <lastmod>2026-08-01T00:19:13.889Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://blog.macknified.com/ai-appointment-machine/</loc>
+    <lastmod>2026-08-01T00:18:58.155Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -33,16 +68,6 @@
   <url>
     <loc>https://blog.macknified.com/one-person-agency-50-clients/</loc>
     <lastmod>2026-07-31T23:07:18.834Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://blog.macknified.com/no-code-ai-agency/</loc>
-    <lastmod>2026-07-31T23:07:14.247Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://blog.macknified.com/how-to-write-ai-system-prompt/</loc>
-    <lastmod>2026-07-31T23:07:09.758Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -86,23 +111,8 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://blog.macknified.com/ai-for-service-businesses/</loc>
-    <lastmod>2026-07-31T23:06:26.571Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://blog.macknified.com/ai-for-restaurants/</loc>
-    <lastmod>2026-07-31T23:06:21.741Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://blog.macknified.com/ai-facebook-instagram-comments-sales/</loc>
     <lastmod>2026-07-31T23:06:17.291Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://blog.macknified.com/ai-content-flywheel/</loc>
-    <lastmod>2026-07-31T23:06:12.426Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -116,28 +126,13 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://blog.macknified.com/ai-appointment-machine/</loc>
-    <lastmod>2026-07-31T23:05:57.242Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://blog.macknified.com/ai-appointment-booking-stop-losing-leads/</loc>
     <lastmod>2026-07-31T23:05:52.571Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://blog.macknified.com/ai-agent-vs-chatbot/</loc>
-    <lastmod>2026-07-31T23:05:48.095Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://blog.macknified.com/7-ai-tools-solo-founders/</loc>
     <lastmod>2026-07-31T23:05:43.605Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://blog.macknified.com/6-figure-ai-consulting-business/</loc>
-    <lastmod>2026-07-31T23:05:39.096Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
