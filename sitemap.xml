@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.macknified.com/ai-content-flywheel/</loc>
+    <lastmod>2026-08-01T00:21:57.116Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://blog.macknified.com/ai-appointment-machine/</loc>
     <lastmod>2026-08-01T00:21:51.177Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,11 +43,6 @@
   <url>
     <loc>https://blog.macknified.com/ai-for-restaurants/</loc>
     <lastmod>2026-08-01T00:19:29.676Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://blog.macknified.com/ai-content-flywheel/</loc>
-    <lastmod>2026-08-01T00:19:13.889Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
