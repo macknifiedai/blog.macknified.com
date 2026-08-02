@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.macknified.com/7-ai-tools-solo-founders/</loc>
+    <lastmod>2026-08-02T00:41:04.405Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://blog.macknified.com/claude-vs-gpt4o-vs-gemini/</loc>
     <lastmod>2026-08-02T00:12:52.458Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -58,11 +63,6 @@
   <url>
     <loc>https://blog.macknified.com/one-person-agency-50-clients/</loc>
     <lastmod>2026-08-01T01:46:39.441Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://blog.macknified.com/7-ai-tools-solo-founders/</loc>
-    <lastmod>2026-08-01T01:46:01.435Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
