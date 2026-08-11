@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.macknified.com/ai-automates-customer-journey/</loc>
+    <lastmod>2026-08-11T05:54:44.609Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://blog.macknified.com/no-code-ai-agency/</loc>
     <lastmod>2026-08-11T05:54:07.489Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -43,11 +48,6 @@
   <url>
     <loc>https://blog.macknified.com/zero-dollar-ai-marketing-strategy/</loc>
     <lastmod>2026-08-11T04:48:16.395Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://blog.macknified.com/ai-automates-customer-journey/</loc>
-    <lastmod>2026-08-11T04:29:38.798Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
