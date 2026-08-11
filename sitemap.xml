@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.macknified.com/zero-dollar-ai-marketing-strategy/</loc>
+    <lastmod>2026-08-11T04:48:16.395Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://blog.macknified.com/</loc>
     <lastmod>2026-08-11T04:40:49.730Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -78,11 +83,6 @@
   <url>
     <loc>https://blog.macknified.com/what-is-agentic-ai-business-owners/</loc>
     <lastmod>2026-08-01T02:56:33.665Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://blog.macknified.com/zero-dollar-ai-marketing-strategy/</loc>
-    <lastmod>2026-08-01T02:56:25.154Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
