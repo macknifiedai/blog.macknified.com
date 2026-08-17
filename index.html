@@ -42,7 +42,7 @@
   var u=new URL(location.href);var found=null;var changed=false;
   var PINP=true;
   if(!PINP){try{localStorage.removeItem('lp_pin_'+slug);if(SITEK)localStorage.removeItem(SITEK);}catch(e){}}
-  Object.keys(map).forEach(function(p){var v=u.searchParams.get(p);if(v){found=v;try{if(PINP||p!=='pin_access_token'){localStorage.setItem(map[p]+slug,v);if(SITEK&&p==='pin_access_token')localStorage.setItem(SITEK,v);}}catch(e){}u.searchParams.delete(p);changed=true;}});
+  Object.keys(map).forEach(function(p){var v=u.searchParams.get(p);if(v){found=v;try{if(PINP||p!=='pin_access_token'){localStorage.setItem(map[p]+slug,v);if(SITEK&&p==='pin_access_token')localStorage.setItem(SITEK,v);}}catch(e){}if(p==='pin_access_token'){try{sessionStorage.setItem('lp_fresh_'+slug,'1');}catch(e){}}u.searchParams.delete(p);changed=true;}});
   if(found){try{sessionStorage.setItem(SK,found);}catch(e){}}
   else{try{if(!sessionStorage.getItem(SK)){var t=localStorage.getItem('lp_pw_'+slug)||localStorage.getItem('lp_al_'+slug)||localStorage.getItem('lp_pin_'+slug)||localStorage.getItem('lp_paid_'+slug)||siteTok();if(t)sessionStorage.setItem(SK,t);}}catch(e){}}
   if(changed){try{history.replaceState(null,'',u.toString());}catch(e){}}
@@ -371,11 +371,11 @@
             <div class="card-read">Read →</div>
           </div>
         </a>
-        <a class="top-card" href="https://blog.macknified.com/ai-local-business-automations-save-time/">
-          <img src="https://app.macknified.com/objects/generated-images/448/1782381170398-7e3a214665c8913a.png" alt="AI for Local Businesses: 10 Automations That Save Time Every Week" class="card-img" loading="lazy" onerror="this.style.display='none'">
+        <a class="top-card" href="https://blog.macknified.com/death-manual-follow-up-ai-workflows/">
+          <img src="https://app.macknified.com/objects/generated-images/448/1782381224872-c181e3d7080c1df2.png" alt="The Death of Manual Follow-Up" class="card-img" loading="lazy" onerror="this.style.display='none'">
           <div class="card-body">
-            <div class="card-date">Jul 23, 2026 · 4 min read</div>
-            <div class="card-title">AI for Local Businesses: 10 Automations That Save Time Every Week</div>
+            <div class="card-date">Jul 30, 2026 · 3 min read</div>
+            <div class="card-title">The Death of Manual Follow-Up: Why AI Workflows Are Becoming Essential</div>
             <div class="card-read">Read →</div>
           </div>
         </a>
@@ -385,6 +385,14 @@
       <div class="section-sep"><div class="section-sep-label">All Posts</div></div>
       <div class="rest-wrap">
         <div id="rest-list">
+          <a class="rest-row" href="https://blog.macknified.com/ai-local-business-automations-save-time/">
+            <img src="https://app.macknified.com/objects/generated-images/448/1782381170398-7e3a214665c8913a.png" class="rest-thumb" alt="AI for Local Businesses: 10 Automations That Save Time Every Week" onerror="this.style.display='none'">
+            <div style="min-width:0;">
+              <div class="rest-title">AI for Local Businesses: 10 Automations That Save Time Every Week</div>
+              <div class="rest-excerpt">From missed call text-backs to birthday campaigns — 10 automations local businesses can set up this week.</div>
+            </div>
+            <div class="rest-date">Jul 23, 2026 · 4 min read</div>
+          </a>
           <a class="rest-row" href="https://blog.macknified.com/ai-content-flywheel/">
             <img src="https://app.macknified.com/objects/generated-images/448/1786425926713-b0ac3e72c87f6501.png" class="rest-thumb" alt="The AI Content Flywheel" onerror="this.style.display='none'">
             <div style="min-width:0;">
